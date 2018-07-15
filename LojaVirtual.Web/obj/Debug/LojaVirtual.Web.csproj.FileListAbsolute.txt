@@ -159,7 +159,6 @@ C:\Projetos\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.csproj.CoreCom
 C:\Projetos\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.csproj.CopyComplete
 C:\Projetos\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.dll
 C:\Projetos\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.pdb
-C:\Projetos\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.csprojAssemblyReference.cache
 C:\Projetos\Loja\LojaVirtual.Web\bin\LojaVirtual.Web.dll.config
 C:\Projetos\Loja\LojaVirtual.Web\bin\LojaVirtual.Web.dll
 C:\Projetos\Loja\LojaVirtual.Web\bin\LojaVirtual.Web.pdb
@@ -241,3 +240,4 @@ C:\Projetos\Loja\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.csproj.CoreCompileInp
 C:\Projetos\Loja\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.csproj.CopyComplete
 C:\Projetos\Loja\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.dll
 C:\Projetos\Loja\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.pdb
+C:\Projetos\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.csprojAssemblyReference.cache

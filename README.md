@@ -12,6 +12,17 @@ pode ser baixado neste linq. https://visualstudio.microsoft.com/pt-br/downloads/
 
 4 - Para o repositório foi criada um conta publica no GitHub
 
+# Das Organizações das tasks do projeto.
+__O projeto tinha duração de três dia corridos.
+
+
+	
+	
+	
+	
+	
+
+
 # Das instruções para configuração e utilização da aplicação
 
 

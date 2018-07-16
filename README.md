@@ -8,8 +8,9 @@ pode ser baixado neste linq. https://www.microsoft.com/en-us/download/details.as
 2 - Usamos também o Microsoft Visual Studio Community para o desenvolvimento da aplicação Asp.Net.
 pode ser baixado neste linq. https://visualstudio.microsoft.com/pt-br/downloads/?rr=https%3A%2F%2Fwww.google.com.br%2F
 
-
 3 - Também foram usados recursos dos frameworks entity, bootstrap.
+
+4 - Para o repositório foi criada um conta publica no GitHub
 
 
 

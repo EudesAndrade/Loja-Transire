@@ -8,11 +8,11 @@ namespace LojaVirtual.Web.Data
     {
         public LojaVirtualContext() : base("LojaVirtual")
         {
-            //Configuration.ProxyCreationEnabled = false;
-            //Configuration.LazyLoadingEnabled = false;
         }
 
-        public DbSet<Produto> Produto { get; set; }
+        public DbSet<Vendas> Vendas { get; set; }
+        public DbSet<VendasItens> VendasItens { get; set; }
+        public DbSet<Produtos> Produto { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

@@ -38,7 +38,10 @@ As tarefas foram divididas da seguinte forma:
 
 7 - Clicar duas vezes em LojaVirtual.sln (para abrir a solução)
 
-8 - Na aba Gerenciador de Servidores -> Clicar na seta de conexão de dados e em seguida na seta do banco Loja Virtual -> execute a aplicação dando um start -> cadastre produtos, liste,edite, exclua e veja em detalhes. 
+8 - Na aba Gerenciador de Servidores -> Clicar na seta de conexão de dados e em seguida na seta do banco Loja Virtual -> execute a aplicação dando um start -> cadastre produtos, liste,edite, exclua e veja em detalhes.
+
+9 - Criar o banco com o arquivo CriarBancosql.sql
+
 
 
 
